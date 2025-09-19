@@ -13,11 +13,14 @@
     "@tailwindcss/vite": "^4.1.12",
     "html-to-image": "^1.11.13",
     "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.12.1",
+    "js-html2pdf": "^1.1.4",
     "jspdf": "^3.0.2",
     "qrcode": "^1.5.4",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.8.2",
+    "react-to-print": "^3.1.1",
     "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
